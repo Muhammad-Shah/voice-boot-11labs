@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 tests/test_websockts.html
 tests/index.html
-
+.env
 # C extensions
 *.so
 env_parm/
